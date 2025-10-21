@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 
+=======
+IT
+CSE
+AIML
+ML
+DS
+CS
+>>>>>>> fb
